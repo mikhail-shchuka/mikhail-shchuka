@@ -1,6 +1,6 @@
 # Frontend developer
 
-## ![Skills](https://github.com/mikhail-shchuka/mikhail-shchuka/blob/main/assets/skills.png)
+## Skills
 
 * Typescript, JavaScript (ES2015 - 2019) 
 * React, Redux, Redux Toolkit
