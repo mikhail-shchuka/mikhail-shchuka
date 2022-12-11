@@ -4,7 +4,7 @@
 
 * Typescript, JavaScript (ES2015 - 2019) 
 * React, Redux, Redux Toolkit, Redux Thunk/Saga
-* NextJS
+* NextJS, Storybook
 * Material UI 5, Styled Components
 * HTML5, CSS3, Sass (SCSS), BEM
 * Fetch, REST API, JSON
