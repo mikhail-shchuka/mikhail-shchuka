@@ -1,4 +1,4 @@
-# Frontend Developer & UI/UX Specialist
+# Frontend & Mobile Developer
 
 ## Skills & Expertise
 
